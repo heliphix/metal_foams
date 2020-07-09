@@ -12,5 +12,7 @@ Click Run Script
 Select this file "simulate.py"
 ________________________________________________________________________
 Wait for 5 to 10 mins
+
 It will create all the .cae files and save them in "C:/72 new simulations"
+
 It only creates the .cae file and .jnl file
