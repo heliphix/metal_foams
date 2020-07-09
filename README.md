@@ -3,16 +3,16 @@ This repository contains the Python code for generating the (ABAQUS Explicit v6.
 ______________________________________________________________________
 Steps:
 
-Open Abaqus 
+Open Abaqus v6.14
 
-Go to file in the menu
+Go to File from the Menu
 
 Click Run Script
 
-Select this file "simulate.py"
+Select this file: "simulate.py"
 ________________________________________________________________________
 Wait for 5 to 10 mins
 
 It will create all the .cae files and save them in "C:/72 new simulations"
 
-It only creates the .cae file and .jnl file
+It only creates the .cae file and .jnl file. Run the simulations manually.
